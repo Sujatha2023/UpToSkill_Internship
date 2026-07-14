@@ -71,7 +71,7 @@ This project helped strengthen my understanding of:
 
 ## 📸 Preview
 
-
+<img width="1020" height="852" alt="Image" src="https://github.com/user-attachments/assets/9bd19d23-01db-4190-9c78-2a7efa8f09ec" />
 ## 👩‍💻 Author
 
 **G. Sujatha**
