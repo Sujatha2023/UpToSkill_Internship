@@ -35,8 +35,6 @@ Modern_Login_Page/
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-└── screenshot.png (optional)
 ```
 
 ## 🚀 Getting Started
